@@ -23,9 +23,9 @@
 - Python
 - Scala
 
-# Instructions for running Scala scripts
+# Instructions for running Apache Spark scripts
 
-- Copy the code from script and paste it in the scala Spark shell to run code.
+- Copy the code from the repective script and paste it in the corresponding Spark shell to run code.
 
 # Instructions for running python scripts
 - Open terminal(in Linux encironment)/Command Propmpt(Windows).
