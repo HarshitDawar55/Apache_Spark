@@ -10,6 +10,9 @@
 - As MapReduce was unable to handle real time data, Spark come into picture to help.
 - It is now used by many big tech giants like Oracle, Amazon, Microsoft, Visa, Cisco, Verizon, Hortonworks.
 - Like above we have 3000 companies using Apache Spark.
+
+# Downloading Apache Spark
+
 - To download Apache Spark, visit: https://spark.apache.org/downloads.html
 
 # Languages used for Programming in Spark:
@@ -17,8 +20,10 @@
 - Python
 - Scala
 
-# Instructions for running scripts
+# Instructions for running Scala scripts
 
-- I have uploaded scripts for the programs.
-- To run them, first you have to install spark shell of respective language which you want to run codes of.
-- Copy the code from script and paste it in the shell of corresponding language for which you want to run code.
+- Copy the code from script and paste it in the scala Spark shell to run code.
+
+# Instructions for running python scripts
+- Open terminal(in Linux encironment)/Command Propmpt(Windows).
+- Run "python <script name>"
