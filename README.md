@@ -17,7 +17,7 @@
 - Python
 - Scala
 
-# Imstructions for running scripts
+# Instructions for running scripts
 
 - I have uploaded scripts for the programs.
 - To run them, first you have to install spark shell of respective language which you want to run codes of.
