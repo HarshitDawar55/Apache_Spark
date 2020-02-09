@@ -16,7 +16,7 @@
 - To download Apache Spark, visit: https://spark.apache.org/downloads.html
 
 # Installing Apache Spark
-- For Mac: https://github.com/HarshitDawar55/Apache_Spark/blob/master/docs/Installation_Of_Spark_In_Mac.docx
+- For Mac: [Apache Spark Installation](https://github.com/HarshitDawar55/Apache_Spark/blob/master/docs/Installation_Of_Spark_In_Mac.docx)
 
 # Languages used for Programming in Spark:
 
