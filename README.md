@@ -30,3 +30,7 @@
 # Instructions for running python scripts
 - Open terminal(in Linux encironment)/Command Propmpt(Windows).
 - Run "python <script name>"
+
+# LICENSE
+
+To check the license visit [LICENSE](https://github.com/HarshitDawar55/Apache_Spark/blob/master/LICENSE.md)
