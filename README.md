@@ -1,3 +1,5 @@
+
+![](docs/spark-streaming-datanami.png)
 # Apache_Spark
 :sparkles::tada: This repository explains about Apache Spark with practicals :tada::sparkles:
 
@@ -33,4 +35,4 @@
 
 # LICENSE
 
-To check the license visit [LICENSE](https://github.com/HarshitDawar55/Apache_Spark/blob/master/LICENSE.md)
+To check the license visit [LICENSE](https://github.com/HarshitDawar55/Apache_Spark/blob/master/docs/LICENSE.md)
