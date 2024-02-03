@@ -1,0 +1,5 @@
+Hello World
+This is the Practical for the MapReduce by Mr. Harshit Dawar!
+I love India.
+We are going to have a lot of fun while understanding this new mind blowing stuff from Mr. Harshit Dawar!
+We will Rock!

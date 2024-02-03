@@ -1,0 +1,12 @@
+Initializing the Spark Context
+Reading a Text File
+Starting the MapReduce Transformation
+MapReduce Transformation Finished
+Printing the Word Count
+Stopping the Spark Context!
+2024-02-04 01:14:43,271 — WordCount — INFO — <module>:25 — Initializing the Spark Context
+2024-02-04 01:14:46,996 — WordCount — INFO — <module>:30 — Reading a Text File
+2024-02-04 01:14:47,670 — WordCount — INFO — <module>:34 — Starting the MapReduce Transformation
+2024-02-04 01:14:47,761 — WordCount — INFO — <module>:40 — MapReduce Transformation Finished
+2024-02-04 01:14:47,761 — WordCount — INFO — <module>:42 — Printing the Word Count
+2024-02-04 01:14:50,771 — WordCount — INFO — <module>:47 — Stopping the Spark Context!
